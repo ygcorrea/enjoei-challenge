@@ -7,12 +7,6 @@ yarn install
 ```
 yarn serve
 ```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
 ### Run the unit tests
 ```
 yarn test
