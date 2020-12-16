@@ -11,3 +11,6 @@ yarn serve
 ```
 yarn test
 ```
+### Deploy
+```
+https://enjoei-challenge.netlify.app/
